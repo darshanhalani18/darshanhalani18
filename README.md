@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Darshan Halani</h1>
+ <h1 align="center">Hello 👋, I'm Darshan Halani</h1>
 <h3 align="center">Student Of Computer Science & Engineering</h3>
-<h4>🔭 I’m currently Studying at Darshan University🎓</h4>
+<h4 align="center">🔭 I’m currently Studying at Darshan University🎓</h4>
 
 - 📫 How to reach me **halanidarshan@gmail.com**
 
